@@ -1,0 +1,65 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    background-color:#DBE3E5;
+}
+.banner-column
+{
+    background-color:#776D8A;
+}
+.navbar-container
+{
+    top: 0;
+    background-color:#1C2A24;
+    position:sticky;
+    z-index:2;
+}
+.about-container
+{
+    background-color:#519872;
+}
+.education-container
+{
+    background-color:#EEEEEE;
+}
+.redtype-color
+{
+    color:orangered;
+}
+.circle
+{
+    background-color:#F0264E;
+    color: white;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container{
+    background-color:#776D8A;
+}
+.form-container{
+    background-color:#474D5D;
+}
+.footer{
+    background-color:#003049 ;
+}
+.icon-circle
+{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 30px;
+    text-align: center;
+    color:#4267B2;
+}
+.Gallery-container
+{
+    background-color: gainsboro;
+}
+.carousel-caption
+{
+    display: inline-block;
+}
